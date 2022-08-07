@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62f01468-a650-4592-881b-2ed933b0bc4d" name="Default Changelist" comment="" />
+    <list default="true" id="62f01468-a650-4592-881b-2ed933b0bc4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/firststage/class02/Code01_RandToRand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firststage/class03/Code01_BSExist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firststage/class03/Code02_BSNearLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firststage/class03/Code03_BSNearRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firststage/class03/Code04_BSAwesome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firststage/class03/Code05_HashMapTreeMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StructureAlgorithm/firststage/class01/Code05_PreSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StructureAlgorithm/firststage/class01/Code05_PreSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StructureAlgorithm/firststage/新手班题目列表" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StructureAlgorithm/firststage/新手班题目列表" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firststage/class01/Code05_PreSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firststage/class01/Code05_PreSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firststage/新手班题目列表" beforeDir="false" afterPath="$PROJECT_DIR$/src/firststage/新手班题目列表" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,30 +25,24 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/firststage/新手班题目列表">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/firststage/class01/Code04_InsertionSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            <state relative-caret-position="280">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/firststage/class01/Code05_PreSum.java">
+        <entry file="file://$PROJECT_DIR$/src/firststage/class03/Code05_HashMapTreeMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="230">
+              <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,12 +66,20 @@
         <option value="$PROJECT_DIR$/src/firststage/Code04_InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/firststage/class01/Code06_PrintB.java" />
         <option value="$PROJECT_DIR$/src/firststage/class01/Code01_SumOfFactorial.java" />
-        <option value="$PROJECT_DIR$/src/firststage/新手班题目列表" />
         <option value="$PROJECT_DIR$/src/firststage/utils/RandomIntArray.java" />
         <option value="$PROJECT_DIR$/src/firststage/class01/Code02_SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/firststage/utils/ArrayUtils.java" />
         <option value="$PROJECT_DIR$/src/firststage/class01/Code03_BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/firststage/class01/Code04_InsertionSort.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/firststage/class01/Code05_PreSum.java" />
+        <option value="$PROJECT_DIR$/src/firststage/class02/Code01_RandToRand.java" />
+        <option value="$PROJECT_DIR$/src/firststage/class03/Code01_BSExist.java" />
+        <option value="$PROJECT_DIR$/src/firststage/class03/Code02_BSNearLeft.java" />
+        <option value="$PROJECT_DIR$/src/firststage/class03/Code03_BSNearRight.java" />
+        <option value="$PROJECT_DIR$/src/firststage/新手班题目列表" />
+        <option value="$PROJECT_DIR$/src/firststage/class03/Code04_BSAwesome.java" />
+        <option value="$PROJECT_DIR$/src/firststage/class03/Code05_HashMapTreeMap.java" />
       </list>
     </option>
   </component>
@@ -78,8 +92,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="5" />
-    <option name="y" value="31" />
+    <option name="x" value="293" />
+    <option name="y" value="50" />
     <option name="width" value="1390" />
     <option name="height" value="1005" />
   </component>
@@ -108,6 +122,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="firststage" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="StructureAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StructureAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="firststage" type="462c0819:PsiDirectoryNode" />
+              <item name="class03" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -116,6 +137,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
@@ -136,13 +158,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code04_InsertionSort">
-    <configuration name="Code01_SumOfFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firststage.class01.Code01_SumOfFactorial" />
+  <component name="RunManager" selected="Application.Code05_HashMapTreeMap">
+    <configuration name="Code01_BSExist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firststage.class03.Code01_BSExist" />
       <module name="StructureAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firststage.class01.*" />
+          <option name="PATTERN" value="firststage.class03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code02_SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firststage.class01.Code02_SelectionSort" />
+    <configuration name="Code01_RandToRand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firststage.class02.Code01_RandToRand" />
       <module name="StructureAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firststage.class01.*" />
+          <option name="PATTERN" value="firststage.class02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code03_BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firststage.class01.Code03_BubbleSort" />
+    <configuration name="Code02_BSNearLeft" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firststage.class03.Code02_BSNearLeft" />
       <module name="StructureAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firststage.class01.*" />
+          <option name="PATTERN" value="firststage.class03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code04_InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firststage.class01.Code04_InsertionSort" />
+    <configuration name="Code03_BSNearRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firststage.class03.Code03_BSNearRight" />
       <module name="StructureAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firststage.class01.*" />
+          <option name="PATTERN" value="firststage.class03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code06_PrintB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firststage.class01.Code06_PrintB" />
+    <configuration name="Code05_HashMapTreeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firststage.class03.Code05_HashMapTreeMap" />
       <module name="StructureAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firststage.class01.*" />
+          <option name="PATTERN" value="firststage.class03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Code04_InsertionSort" />
-        <item itemvalue="Application.Code03_BubbleSort" />
-        <item itemvalue="Application.Code02_SelectionSort" />
-        <item itemvalue="Application.Code01_SumOfFactorial" />
-        <item itemvalue="Application.Code06_PrintB" />
+        <item itemvalue="Application.Code05_HashMapTreeMap" />
+        <item itemvalue="Application.Code02_BSNearLeft" />
+        <item itemvalue="Application.Code03_BSNearRight" />
+        <item itemvalue="Application.Code01_BSExist" />
+        <item itemvalue="Application.Code01_RandToRand" />
       </list>
     </recent_temporary>
   </component>
@@ -222,54 +244,54 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659714616500</updated>
-      <workItem from="1659714619776" duration="9083000" />
+      <workItem from="1659714619776" duration="9450000" />
+      <workItem from="1659851330032" duration="15515000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9083000" />
+    <option name="totallyTimeSpent" value="24965000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="25" width="1112" height="804" extended-state="0" />
+    <frame x="235" y="40" width="1112" height="804" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24952562" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24952562" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32986626" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.58035713" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32986626" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30357143" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.58035713" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32886904" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/firststage/class01/笔记">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/class01/笔记" />
     <entry file="file://$PROJECT_DIR$/src/firststage/class01/Code06_PrintB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -316,10 +338,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/firststage/新手班题目列表">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        <state relative-caret-position="84">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -332,8 +354,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/firststage/class01/Code05_PreSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        <state relative-caret-position="840">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/class02/Code01_RandToRand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+          <folding>
+            <element signature="e#833#834#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+            <element signature="e#939#940#0" expanded="true" />
+            <element signature="e#971#972#0" expanded="true" />
+            <element signature="e#1090#1091#0" expanded="true" />
+            <element signature="e#1119#1120#0" expanded="true" />
+            <element signature="e#1407#1408#0" expanded="true" />
+            <element signature="e#1462#1463#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/class03/Code03_BSNearRight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/class03/Code02_BSNearLeft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/class03/Code01_BSExist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="790">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/新手班题目列表">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/class03/Code04_BSAwesome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/class03/Code05_HashMapTreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

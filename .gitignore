@@ -1,0 +1,4 @@
+# 忽略.idea目录
+.idea/
+# 忽略out目录
+out/
