@@ -1,0 +1,19 @@
+package firststage.class06;
+
+public class Code04_BinaryTree {
+
+    public static class Node {
+        int val;
+        Node left;
+        Node right;
+        public Node(int val) {
+            this.val = val;
+            this.left = null;
+            this.right = null;
+        }
+    }
+
+    public static void main(String[] args) {
+
+    }
+}

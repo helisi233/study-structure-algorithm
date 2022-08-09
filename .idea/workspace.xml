@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62f01468-a650-4592-881b-2ed933b0bc4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/firststage/class04/Code01_ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firststage/class04/Code02_LinkedListToQueueAndStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firststage/class04/Code03_DoubleLinkedListToQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firststage/class04/Code04_ReverseNodesInKGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firststage/class04/Code05_AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firststage/class04/Code06_MergeTwoSortedLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firststage/utils/ListUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firststage/class06/Code01_ShowComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firststage/class06/Code02_Comparator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firststage/class06/Code03_MergeKSortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firststage/class06/Code04_BinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/StructureAlgorithm/firststage/新手班题目列表" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StructureAlgorithm/firststage/新手班题目列表" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/firststage/新手班题目列表" beforeDir="false" afterPath="$PROJECT_DIR$/src/firststage/新手班题目列表" afterDir="false" />
@@ -28,17 +25,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/firststage/新手班题目列表">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+            <state relative-caret-position="492">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/firststage/class04/Code06_MergeTwoSortedLinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/firststage/class06/Code04_BinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+            <state relative-caret-position="230">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -75,15 +72,19 @@
         <option value="$PROJECT_DIR$/src/firststage/class03/Code03_BSNearRight.java" />
         <option value="$PROJECT_DIR$/src/firststage/class03/Code04_BSAwesome.java" />
         <option value="$PROJECT_DIR$/src/firststage/class03/Code05_HashMapTreeMap.java" />
-        <option value="$PROJECT_DIR$/src/firststage/Test.java" />
         <option value="$PROJECT_DIR$/src/firststage/class04/Code01_ReverseList.java" />
         <option value="$PROJECT_DIR$/src/firststage/class04/Code02_LinkedListToQueueAndStack.java" />
         <option value="$PROJECT_DIR$/src/firststage/class04/Code03_DoubleLinkedListToQueue.java" />
         <option value="$PROJECT_DIR$/src/firststage/class04/Code04_ReverseNodesInKGroup.java" />
-        <option value="$PROJECT_DIR$/src/firststage/utils/ListUtils.java" />
-        <option value="$PROJECT_DIR$/src/firststage/新手班题目列表" />
         <option value="$PROJECT_DIR$/src/firststage/class04/Code05_AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/src/firststage/utils/ListUtils.java" />
         <option value="$PROJECT_DIR$/src/firststage/class04/Code06_MergeTwoSortedLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/firststage/Test.java" />
+        <option value="$PROJECT_DIR$/src/firststage/class06/Code01_ShowComparator.java" />
+        <option value="$PROJECT_DIR$/src/firststage/class06/Code02_Comparator2.java" />
+        <option value="$PROJECT_DIR$/src/firststage/class06/Code03_MergeKSortList.java" />
+        <option value="$PROJECT_DIR$/src/firststage/class06/Code04_BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/firststage/新手班题目列表" />
       </list>
     </option>
   </component>
@@ -96,8 +97,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="302" />
-    <option name="y" value="25" />
+    <option name="x" value="358" />
+    <option name="y" value="45" />
     <option name="width" value="1390" />
     <option name="height" value="1005" />
   </component>
@@ -108,6 +109,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,20 +133,12 @@
               <item name="StructureAlgorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="firststage" type="462c0819:PsiDirectoryNode" />
-              <item name="class04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StructureAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StructureAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="firststage" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="class06" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,13 +163,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code06_MergeTwoSortedLinkedList">
-    <configuration name="Code01_ReverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firststage.class04.Code01_ReverseList" />
+  <component name="RunManager" selected="Application.Code03_MergeKSortList">
+    <configuration name="Code01_ShowComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firststage.class06.Code01_ShowComparator" />
       <module name="StructureAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firststage.class04.*" />
+          <option name="PATTERN" value="firststage.class06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code04_ReverseNodesInKGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firststage.class04.Code04_ReverseNodesInKGroup" />
+    <configuration name="Code02_Comparator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firststage.class06.Code02_Comparator2" />
       <module name="StructureAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firststage.class04.*" />
+          <option name="PATTERN" value="firststage.class06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code05_AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firststage.class04.Code05_AddTwoNumbers" />
+    <configuration name="Code03_MergeKSortList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firststage.class06.Code03_MergeKSortList" />
       <module name="StructureAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firststage.class04.*" />
+          <option name="PATTERN" value="firststage.class06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Code06_MergeTwoSortedLinkedList" />
-        <item itemvalue="Application.Code05_AddTwoNumbers" />
-        <item itemvalue="Application.Code04_ReverseNodesInKGroup" />
-        <item itemvalue="Application.Code01_ReverseList" />
+        <item itemvalue="Application.Code03_MergeKSortList" />
+        <item itemvalue="Application.Code02_Comparator2" />
+        <item itemvalue="Application.Code01_ShowComparator" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Code06_MergeTwoSortedLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -257,15 +251,16 @@
       <updated>1659714616500</updated>
       <workItem from="1659714619776" duration="9450000" />
       <workItem from="1659851330032" duration="15895000" />
-      <workItem from="1659945202724" duration="17716000" />
+      <workItem from="1659945202724" duration="18126000" />
+      <workItem from="1660022915987" duration="14347000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43061000" />
+    <option name="totallyTimeSpent" value="57818000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="818" y="63" width="1112" height="804" extended-state="0" />
+    <frame x="287" y="36" width="1112" height="804" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24952562" />
@@ -285,7 +280,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.58035713" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5794948" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32886904" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -413,13 +408,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/firststage/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/firststage/class04/Code01_ReverseList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
@@ -454,20 +442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/firststage/class04/Code04_ReverseNodesInKGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/firststage/utils/ListUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/firststage/class04/Code05_AddTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -475,17 +449,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/firststage/新手班题目列表">
+    <entry file="file://$PROJECT_DIR$/src/firststage/utils/ListUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        <state relative-caret-position="2184">
+          <caret line="78" column="26" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/firststage/class04/Code06_MergeTwoSortedLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        <state relative-caret-position="1196">
+          <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/class04/Code04_ReverseNodesInKGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/class06/Code01_ShowComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/class06/Code02_Comparator2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="44" column="35" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/class06/Code03_MergeKSortList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/新手班题目列表">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/class06/Code04_BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
         </state>
       </provider>
     </entry>
