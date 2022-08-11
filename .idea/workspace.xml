@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62f01468-a650-4592-881b-2ed933b0bc4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/firststage/class06/Code05_IsSameTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firststage/class06/Code06_IsMirrorTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firststage/class06/Code07_MaximumDepthOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firststage/class06/Code08_ConstructBinaryTreeFromPreAndInTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firststage/class07/Code01_BinaryTreeLevelOrderTraversalll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firststage/class07/Code02_IsBalancedBinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/StructureAlgorithm/firststage/新手班题目列表" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StructureAlgorithm/firststage/新手班题目列表" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firststage/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firststage/class04/Code04_ReverseNodesInKGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firststage/class04/Code04_ReverseNodesInKGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firststage/class04/Code05_AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firststage/class04/Code05_AddTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firststage/class04/Code06_MergeTwoSortedLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firststage/class04/Code06_MergeTwoSortedLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firststage/class06/Code03_MergeKSortList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firststage/class06/Code03_MergeKSortList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firststage/class06/Code04_BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firststage/class06/Code04_BinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/firststage/新手班题目列表" beforeDir="false" afterPath="$PROJECT_DIR$/src/firststage/新手班题目列表" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,29 +23,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/firststage/新手班题目列表">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="688">
-              <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+            <state relative-caret-position="520">
+              <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/firststage/class06/Code08_ConstructBinaryTreeFromPreAndInTraversal.java">
+        <entry file="file://$PROJECT_DIR$/src/firststage/class07/Code02_IsBalancedBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="64" column="65" selection-start-line="64" selection-start-column="65" selection-end-line="64" selection-end-column="65" />
+            <state relative-caret-position="566">
+              <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1127#1128#0" expanded="true" />
+                <element signature="e#1158#1159#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/firststage/utils/ListUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -103,10 +87,12 @@
         <option value="$PROJECT_DIR$/src/firststage/class06/Code05_IsSameTree.java" />
         <option value="$PROJECT_DIR$/src/firststage/class06/Code06_IsMirrorTree.java" />
         <option value="$PROJECT_DIR$/src/firststage/class06/Code07_MaximumDepthOfBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/firststage/新手班题目列表" />
         <option value="$PROJECT_DIR$/src/firststage/Test.java" />
         <option value="$PROJECT_DIR$/src/firststage/utils/ListUtils.java" />
         <option value="$PROJECT_DIR$/src/firststage/class06/Code08_ConstructBinaryTreeFromPreAndInTraversal.java" />
+        <option value="$PROJECT_DIR$/src/firststage/class07/Code01_BinaryTreeLevelOrderTraversalll.java" />
+        <option value="$PROJECT_DIR$/src/firststage/新手班题目列表" />
+        <option value="$PROJECT_DIR$/src/firststage/class07/Code02_IsBalancedBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -118,9 +104,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="308" />
-    <option name="y" value="37" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="341" />
+    <option name="y" value="102" />
     <option name="width" value="1390" />
     <option name="height" value="1005" />
   </component>
@@ -130,7 +116,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,20 +140,13 @@
               <item name="StructureAlgorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="firststage" type="462c0819:PsiDirectoryNode" />
-              <item name="class04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StructureAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StructureAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="firststage" type="462c0819:PsiDirectoryNode" />
-              <item name="class06" type="462c0819:PsiDirectoryNode" />
+              <item name="class07" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,13 +171,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code08_ConstructBinaryTreeFromPreAndInTraversal">
-    <configuration name="Code02_Comparator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firststage.class06.Code02_Comparator2" />
+  <component name="RunManager" selected="Application.Code01_BinaryTreeLevelOrderTraversalll">
+    <configuration name="Code01_BinaryTreeLevelOrderTraversalll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firststage.class07.Code01_BinaryTreeLevelOrderTraversalll" />
       <module name="StructureAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firststage.class06.*" />
+          <option name="PATTERN" value="firststage.class07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code01_BinaryTreeLevelOrderTraversalll" />
         <item itemvalue="Application.Code08_ConstructBinaryTreeFromPreAndInTraversal" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Code04_BinaryTree" />
         <item itemvalue="Application.Code03_MergeKSortList" />
-        <item itemvalue="Application.Code02_Comparator2" />
       </list>
     </recent_temporary>
   </component>
@@ -282,18 +261,19 @@
       <workItem from="1659851330032" duration="15895000" />
       <workItem from="1659945202724" duration="18126000" />
       <workItem from="1660022915987" duration="18159000" />
-      <workItem from="1660200929278" duration="8415000" />
+      <workItem from="1660200929278" duration="8485000" />
+      <workItem from="1660235550446" duration="7729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70045000" />
+    <option name="totallyTimeSpent" value="77844000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="247" y="30" width="1112" height="804" extended-state="0" />
+    <frame x="273" y="82" width="1112" height="804" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24952562" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25426945" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -326,6 +306,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/firststage/class07/Code01_BinaryTreeLevelOrderTraversalll.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/firststage/class01/笔记" />
@@ -559,20 +551,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/firststage/新手班题目列表">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/firststage/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/firststage/utils/ListUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -582,10 +561,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/firststage/class06/Code08_ConstructBinaryTreeFromPreAndInTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="64" column="65" selection-start-line="64" selection-start-column="65" selection-end-line="64" selection-end-column="65" />
+        <state relative-caret-position="28">
+          <caret line="21" selection-start-line="21" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/class07/Code01_BinaryTreeLevelOrderTraversalll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/新手班题目列表">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/class07/Code02_IsBalancedBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+          <folding>
+            <element signature="e#1127#1128#0" expanded="true" />
+            <element signature="e#1158#1159#0" expanded="true" />
           </folding>
         </state>
       </provider>
