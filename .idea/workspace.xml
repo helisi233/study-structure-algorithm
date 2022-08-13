@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62f01468-a650-4592-881b-2ed933b0bc4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/firststage/class07/Code01_BinaryTreeLevelOrderTraversalll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firststage/class07/Code02_IsBalancedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firststage/class07/Code03_PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firststage/class07/Code04_PathSumII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StructureAlgorithm/firststage/新手班题目列表" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StructureAlgorithm/firststage/新手班题目列表" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/firststage/新手班题目列表" beforeDir="false" afterPath="$PROJECT_DIR$/src/firststage/新手班题目列表" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,20 +23,28 @@
         <entry file="file://$PROJECT_DIR$/src/firststage/新手班题目列表">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="520">
-              <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
+              <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/firststage/class07/Code02_IsBalancedBinaryTree.java">
+        <entry file="file://$PROJECT_DIR$/src/firststage/class07/Code04_PathSumII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+            <state relative-caret-position="300">
+              <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
               <folding>
-                <element signature="e#1127#1128#0" expanded="true" />
-                <element signature="e#1158#1159#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/firststage/class07/Code03_PathSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -91,8 +98,10 @@
         <option value="$PROJECT_DIR$/src/firststage/utils/ListUtils.java" />
         <option value="$PROJECT_DIR$/src/firststage/class06/Code08_ConstructBinaryTreeFromPreAndInTraversal.java" />
         <option value="$PROJECT_DIR$/src/firststage/class07/Code01_BinaryTreeLevelOrderTraversalll.java" />
-        <option value="$PROJECT_DIR$/src/firststage/新手班题目列表" />
         <option value="$PROJECT_DIR$/src/firststage/class07/Code02_IsBalancedBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/firststage/class07/Code03_PathSum.java" />
+        <option value="$PROJECT_DIR$/src/firststage/新手班题目列表" />
+        <option value="$PROJECT_DIR$/src/firststage/class07/Code04_PathSumII.java" />
       </list>
     </option>
   </component>
@@ -105,8 +114,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="341" />
-    <option name="y" value="102" />
+    <option name="x" value="315" />
+    <option name="y" value="77" />
     <option name="width" value="1390" />
     <option name="height" value="1005" />
   </component>
@@ -117,6 +126,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,7 +156,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,15 +271,17 @@
       <workItem from="1659945202724" duration="18126000" />
       <workItem from="1660022915987" duration="18159000" />
       <workItem from="1660200929278" duration="8485000" />
-      <workItem from="1660235550446" duration="7729000" />
+      <workItem from="1660235550446" duration="7890000" />
+      <workItem from="1660283914669" duration="2047000" />
+      <workItem from="1660404327297" duration="1934000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77844000" />
+    <option name="totallyTimeSpent" value="81986000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="273" y="82" width="1112" height="804" extended-state="1" />
+    <frame x="252" y="62" width="1112" height="804" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25426945" />
@@ -290,7 +301,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.57886904" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5780089" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32886904" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -579,20 +590,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/firststage/新手班题目列表">
+    <entry file="file://$PROJECT_DIR$/src/firststage/class07/Code02_IsBalancedBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
+        <state relative-caret-position="1196">
+          <caret line="84" column="41" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/firststage/class07/Code02_IsBalancedBinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/src/firststage/class07/Code03_PathSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+        <state relative-caret-position="258">
+          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/新手班题目列表">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/class07/Code04_PathSumII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
           <folding>
-            <element signature="e#1127#1128#0" expanded="true" />
-            <element signature="e#1158#1159#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
