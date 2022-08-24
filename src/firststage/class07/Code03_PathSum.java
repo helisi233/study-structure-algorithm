@@ -16,6 +16,7 @@ public class Code03_PathSum {
     public static boolean isSum = false;
 
     public static void process(TreeNode node, int preSum, int sum) {
+        // 收集整条路径上的所有信息 将判断放到子节点上
         if(node.left == null && node.right == null) {
             if(preSum + node.val == sum) {
                 isSum = true;

@@ -19,8 +19,10 @@ public class Code04_PathSumII {
     public static List<List<Integer>> pathSum(TreeNode head, int sum) {
         List<List<Integer>> ans = new ArrayList<>();
         if(head == null) {
-            return null;
+            return ans;
         }
+        List<Integer> path = new ArrayList<>();
+        process(head, path, 0, sum, ans);
         return ans;
     }
 
@@ -29,6 +31,7 @@ public class Code04_PathSumII {
             if(node.val + presum == sum) {
                 path.add(node.val);
                 ans.add(copy(path));
+                // 恢复现场 轨迹信息需要恢复成调用子过程之前的样子
                 path.remove(path.size()-1);
             }
             return;
@@ -41,6 +44,7 @@ public class Code04_PathSumII {
         if(node.right != null) {
             process(node.right, path, presum, sum, ans);
         }
+        // 恢复现场 轨迹信息需要恢复成调用子过程之前的样子
         path.remove(path.size()-1);
     }
 
