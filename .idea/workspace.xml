@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62f01468-a650-4592-881b-2ed933b0bc4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/firststage/class08/Code01_MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firststage/class08/Code02_MergeSortIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firststage/class08/Code03_QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firststage/class08/Code04_QuickSortIteration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StructureAlgorithm/firststage/新手班题目列表" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StructureAlgorithm/firststage/新手班题目列表" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firststage/class07/Code03_PathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firststage/class07/Code03_PathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firststage/class07/Code04_PathSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firststage/class07/Code04_PathSumII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firststage/新手班题目列表" beforeDir="false" afterPath="$PROJECT_DIR$/src/firststage/新手班题目列表" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firststage/class08/Code03_QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firststage/class08/Code03_QuickSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,8 +29,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/firststage/class08/Code03_QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+            <state relative-caret-position="1182">
+              <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/firststage/utils/ArrayUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-240">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -110,8 +112,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="393" />
-    <option name="y" value="57" />
+    <option name="x" value="235" />
+    <option name="y" value="62" />
     <option name="width" value="1390" />
     <option name="height" value="1005" />
   </component>
@@ -272,16 +274,16 @@
       <workItem from="1660404327297" duration="4431000" />
       <workItem from="1661056460721" duration="3742000" />
       <workItem from="1661133316007" duration="594000" />
-      <workItem from="1661353697500" duration="4152000" />
+      <workItem from="1661353697500" duration="4367000" />
+      <workItem from="1661437632794" duration="2657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92971000" />
+    <option name="totallyTimeSpent" value="95843000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="315" y="46" width="1112" height="804" extended-state="0" />
-    <editor active="true" />
+    <frame x="188" y="50" width="1112" height="804" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25426945" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -292,15 +294,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32886904" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4419643" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39880952" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44047618" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.57738096" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.576523" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32886904" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -620,13 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/firststage/utils/ArrayUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/firststage/class08/Code02_MergeSortIteration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1284">
@@ -641,10 +636,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/firststage/utils/ArrayUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/firststage/class08/Code03_QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+        <state relative-caret-position="1182">
+          <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
         </state>
       </provider>
     </entry>
