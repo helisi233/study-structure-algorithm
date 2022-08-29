@@ -3,9 +3,8 @@ package firststage.utils;
 public class ArrayUtils {
 
     public static int[] generateRandomArray(int maxLength, int maxValue) {
-        int length = (int)(Math.random() * maxLength);
-        int[] array = new int[length];
-        for (int i = 0; i < length; i++) {
+        int[] array = new int[maxLength];
+        for (int i = 0; i < maxLength; i++) {
             array[i] = (int)(Math.random() * maxValue);
         }
         return array;
