@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62f01468-a650-4592-881b-2ed933b0bc4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/firststage/class05/Code01_BitMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firststage/class05/Code02_BitAddSubMultiDiv.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firststage/新手班题目列表" beforeDir="false" afterPath="$PROJECT_DIR$/src/firststage/新手班题目列表" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StructureAlgorithm/firststage/新手班题目列表" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StructureAlgorithm/firststage/新手班题目列表" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firststage/class05/Code02_BitAddSubMultiDiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firststage/class05/Code02_BitAddSubMultiDiv.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +21,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/firststage/class05/Code02_BitAddSubMultiDiv.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <state relative-caret-position="454">
+              <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+              <folding>
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
+                <element signature="e#742#743#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,8 +104,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="340" />
-    <option name="y" value="92" />
+    <option name="x" value="370" />
+    <option name="y" value="45" />
     <option name="width" value="1390" />
     <option name="height" value="1005" />
   </component>
@@ -165,13 +170,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code04_QuickSortIteration">
-    <configuration name="Code01_BinaryTreeLevelOrderTraversalll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firststage.class07.Code01_BinaryTreeLevelOrderTraversalll" />
+  <component name="RunManager" selected="Application.Code02_BitAddSubMultiDiv">
+    <configuration name="Code01_MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firststage.class08.Code01_MergeSort" />
       <module name="StructureAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firststage.class07.*" />
+          <option name="PATTERN" value="firststage.class08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code01_MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firststage.class08.Code01_MergeSort" />
+    <configuration name="Code02_BitAddSubMultiDiv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firststage.class05.Code02_BitAddSubMultiDiv" />
       <module name="StructureAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firststage.class08.*" />
+          <option name="PATTERN" value="firststage.class05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code02_BitAddSubMultiDiv" />
         <item itemvalue="Application.Code04_QuickSortIteration" />
         <item itemvalue="Application.Code03_QuickSort" />
         <item itemvalue="Application.Code02_MergeSortIteration" />
         <item itemvalue="Application.Code01_MergeSort" />
-        <item itemvalue="Application.Code01_BinaryTreeLevelOrderTraversalll" />
       </list>
     </recent_temporary>
   </component>
@@ -265,15 +270,17 @@
       <workItem from="1661437632794" duration="2657000" />
       <workItem from="1661441307246" duration="103000" />
       <workItem from="1661734256439" duration="1691000" />
-      <workItem from="1661740276018" duration="4987000" />
+      <workItem from="1661740276018" duration="6945000" />
+      <workItem from="1662398361498" duration="131000" />
+      <workItem from="1662423883960" duration="1797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102624000" />
+    <option name="totallyTimeSpent" value="106510000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="130" y="38" width="1112" height="804" extended-state="0" />
+    <frame x="296" y="36" width="1112" height="804" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25426945" />
@@ -663,8 +670,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/firststage/class05/Code02_BitAddSubMultiDiv.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        <state relative-caret-position="454">
+          <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+          <folding>
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
