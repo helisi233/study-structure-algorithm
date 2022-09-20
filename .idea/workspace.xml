@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62f01468-a650-4592-881b-2ed933b0bc4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secondstage/class02/Code01_SwapWithoutExternalVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondstage/class02/Code02_EvenTimesOddTimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondstage/class02/Code03_ExtractIntNumRightOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondstage/class02/Code04_EvenTimesOddTimes2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondstage/class02/Code05_KTimesMTimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondstage/体系班题目列表" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondstage/class03/Code01_ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondstage/class03/Code02_ReverseDList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondstage/class03/Code03_DeleteGivenValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondstage/class03/ListUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondstage/体系班题目列表" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondstage/体系班题目列表" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,20 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/secondstage/体系班题目列表">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/secondstage/class02/Code05_KTimesMTimes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            <state relative-caret-position="590">
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -55,10 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/firststage/class01/Code03_BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/firststage/class01/Code04_InsertionSort.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/firststage/class01/Code05_PreSum.java" />
         <option value="$PROJECT_DIR$/src/firststage/class02/Code01_RandToRand.java" />
         <option value="$PROJECT_DIR$/src/firststage/class03/Code01_BSExist.java" />
         <option value="$PROJECT_DIR$/src/firststage/class03/Code02_BSNearLeft.java" />
@@ -104,8 +90,12 @@
         <option value="$PROJECT_DIR$/src/secondstage/class02/Code02_EvenTimesOddTimes.java" />
         <option value="$PROJECT_DIR$/src/secondstage/class02/Code03_ExtractIntNumRightOne.java" />
         <option value="$PROJECT_DIR$/src/secondstage/class02/Code04_EvenTimesOddTimes2.java" />
-        <option value="$PROJECT_DIR$/src/secondstage/体系班题目列表" />
         <option value="$PROJECT_DIR$/src/secondstage/class02/Code05_KTimesMTimes.java" />
+        <option value="$PROJECT_DIR$/src/secondstage/class03/Code01_ReverseList.java" />
+        <option value="$PROJECT_DIR$/src/secondstage/class03/ListUtils.java" />
+        <option value="$PROJECT_DIR$/src/secondstage/class03/Code02_ReverseDList.java" />
+        <option value="$PROJECT_DIR$/src/secondstage/class03/Code03_DeleteGivenValue.java" />
+        <option value="$PROJECT_DIR$/src/secondstage/体系班题目列表" />
       </list>
     </option>
   </component>
@@ -117,9 +107,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="207" />
-    <option name="y" value="8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="328" />
+    <option name="y" value="35" />
     <option name="width" value="1390" />
     <option name="height" value="1005" />
   </component>
@@ -129,6 +119,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,19 +138,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="secondstage" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="StructureAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StructureAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="secondstage" type="462c0819:PsiDirectoryNode" />
-              <item name="class02" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,13 +167,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code05_KTimesMTimes">
-    <configuration name="Code01_SwapWithoutExternalVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secondstage.class02.Code01_SwapWithoutExternalVariable" />
+  <component name="RunManager" selected="Application.Code03_DeleteGivenValue">
+    <configuration name="Code01_ReverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondstage.class03.Code01_ReverseList" />
       <module name="StructureAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secondstage.class02.*" />
+          <option name="PATTERN" value="secondstage.class03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code02_EvenTimesOddTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secondstage.class02.Code02_EvenTimesOddTimes" />
+    <configuration name="Code02_ReverseDList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondstage.class03.Code02_ReverseDList" />
       <module name="StructureAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secondstage.class02.*" />
+          <option name="PATTERN" value="secondstage.class03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code03_ExtractIntNumRightOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secondstage.class02.Code03_ExtractIntNumRightOne" />
+    <configuration name="Code03_DeleteGivenValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondstage.class03.Code03_DeleteGivenValue" />
       <module name="StructureAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secondstage.class02.*" />
+          <option name="PATTERN" value="secondstage.class03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code03_DeleteGivenValue" />
+        <item itemvalue="Application.Code02_ReverseDList" />
+        <item itemvalue="Application.Code01_ReverseList" />
         <item itemvalue="Application.Code05_KTimesMTimes" />
         <item itemvalue="Application.Code04_EvenTimesOddTimes2" />
-        <item itemvalue="Application.Code03_ExtractIntNumRightOne" />
-        <item itemvalue="Application.Code02_EvenTimesOddTimes" />
-        <item itemvalue="Application.Code01_SwapWithoutExternalVariable" />
       </list>
     </recent_temporary>
   </component>
@@ -291,15 +274,16 @@
       <workItem from="1662650801762" duration="593000" />
       <workItem from="1663079150467" duration="5383000" />
       <workItem from="1663165719223" duration="258000" />
-      <workItem from="1663257604930" duration="4891000" />
+      <workItem from="1663257604930" duration="5614000" />
+      <workItem from="1663682759933" duration="5190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118011000" />
+    <option name="totallyTimeSpent" value="123924000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="741" y="159" width="1112" height="804" extended-state="0" />
+    <frame x="677" y="34" width="1112" height="804" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2637571" />
@@ -319,7 +303,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.57355124" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.57206535" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32886904" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -349,34 +333,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/firststage/class01/Code05_PreSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/firststage/class03/Code03_BSNearRight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/firststage/class03/Code02_BSNearLeft.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/firststage/class03/Code01_BSExist.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="790">
@@ -748,17 +704,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/secondstage/体系班题目列表">
+    <entry file="file://$PROJECT_DIR$/src/secondstage/class02/Code05_KTimesMTimes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="308">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/secondstage/class02/Code05_KTimesMTimes.java">
+    <entry file="file://$PROJECT_DIR$/src/secondstage/class03/Code01_ReverseList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        <state relative-caret-position="504">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/secondstage/class03/Code02_ReverseDList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/secondstage/class03/ListUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/secondstage/class03/Code03_DeleteGivenValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/secondstage/体系班题目列表">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
         </state>
       </provider>
     </entry>
