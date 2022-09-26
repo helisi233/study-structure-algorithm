@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62f01468-a650-4592-881b-2ed933b0bc4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secondstage/class03/Code04_DoubleEndsQueueToStackAndQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondstage/class03/Code05_RingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondstage/class03/Code06_GetMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondstage/class03/Code07_TwoStacksImplementQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondstage/class03/Code08_TwoQueueImplementStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secondstage/体系班题目列表" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondstage/体系班题目列表" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondstage/class03/Code09_GetMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondstage/class03/Code09_GetMax.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,30 +20,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/secondstage/体系班题目列表">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
+            <state relative-caret-position="756">
               <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/secondstage/class03/Code07_TwoStacksImplementQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1070">
-              <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/secondstage/class03/Code08_TwoQueueImplementStack.java">
+        <entry file="file://$PROJECT_DIR$/src/secondstage/class03/Code09_GetMax.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+            <state relative-caret-position="566">
+              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#379#380#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/firststage/class04/Code01_ReverseList.java" />
         <option value="$PROJECT_DIR$/src/firststage/class04/Code02_LinkedListToQueueAndStack.java" />
         <option value="$PROJECT_DIR$/src/firststage/class04/Code03_DoubleLinkedListToQueue.java" />
         <option value="$PROJECT_DIR$/src/firststage/class04/Code04_ReverseNodesInKGroup.java" />
@@ -120,6 +104,7 @@
         <option value="$PROJECT_DIR$/src/secondstage/class03/Code06_GetMin.java" />
         <option value="$PROJECT_DIR$/src/secondstage/class03/Code07_TwoStacksImplementQueue.java" />
         <option value="$PROJECT_DIR$/src/secondstage/class03/Code08_TwoQueueImplementStack.java" />
+        <option value="$PROJECT_DIR$/src/secondstage/class03/Code09_GetMax.java" />
       </list>
     </option>
   </component>
@@ -132,8 +117,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="382" />
-    <option name="y" value="103" />
+    <option name="x" value="295" />
+    <option name="y" value="21" />
     <option name="width" value="1390" />
     <option name="height" value="1005" />
   </component>
@@ -306,15 +291,16 @@
       <workItem from="1663079150467" duration="5383000" />
       <workItem from="1663165719223" duration="258000" />
       <workItem from="1663257604930" duration="5614000" />
-      <workItem from="1663682759933" duration="11635000" />
+      <workItem from="1663682759933" duration="11822000" />
+      <workItem from="1664205416563" duration="639000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130369000" />
+    <option name="totallyTimeSpent" value="131195000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="306" y="83" width="1112" height="804" extended-state="1" />
+    <frame x="236" y="17" width="1112" height="804" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2637571" />
@@ -334,7 +320,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5714286" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.57057947" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32886904" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -364,13 +350,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/firststage/class04/Code01_ReverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/firststage/class04/Code02_LinkedListToQueueAndStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-448">
@@ -775,10 +754,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/secondstage/体系班题目列表">
+    <entry file="file://$PROJECT_DIR$/src/secondstage/class03/Code08_TwoQueueImplementStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+        <state relative-caret-position="482">
+          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -789,14 +773,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/secondstage/class03/Code08_TwoQueueImplementStack.java">
+    <entry file="file://$PROJECT_DIR$/src/secondstage/体系班题目列表">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        <state relative-caret-position="756">
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/secondstage/class03/Code09_GetMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
           </folding>
         </state>
       </provider>
