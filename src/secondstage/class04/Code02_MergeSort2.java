@@ -1,6 +1,6 @@
 package secondstage.class04;
 
-public class Code01_MergeSort2 {
+public class Code02_MergeSort2 {
 
     public static void mergeSort(int[] array) {
         int N = array.length;

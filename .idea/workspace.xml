@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62f01468-a650-4592-881b-2ed933b0bc4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secondstage/class04/Code01_MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondstage/class04/Code01_MergeSort2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondstage/class04/Code03_SmailSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondstage/class04/Code04_BiggerThanRightTwice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/secondstage/class04/Code01_MergeSort2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondstage/class04/Code02_MergeSort2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/secondstage/体系班题目列表" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondstage/体系班题目列表" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,20 +20,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/secondstage/体系班题目列表">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="565">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="350">
+              <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/secondstage/class04/Code01_MergeSort2.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/secondstage/class04/Code04_BiggerThanRightTwice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            <state relative-caret-position="108">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+              <folding>
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,9 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/firststage/class06/Code05_IsSameTree.java" />
-        <option value="$PROJECT_DIR$/src/firststage/class06/Code06_IsMirrorTree.java" />
-        <option value="$PROJECT_DIR$/src/firststage/class06/Code07_MaximumDepthOfBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/firststage/Test.java" />
         <option value="$PROJECT_DIR$/src/firststage/utils/ListUtils.java" />
         <option value="$PROJECT_DIR$/src/firststage/class06/Code08_ConstructBinaryTreeFromPreAndInTraversal.java" />
@@ -102,7 +104,10 @@
         <option value="$PROJECT_DIR$/src/practicec/MegaResponse.java" />
         <option value="$PROJECT_DIR$/src/practicec/HttpRequest.java" />
         <option value="$PROJECT_DIR$/src/secondstage/class04/Code01_MergeSort2.java" />
+        <option value="$PROJECT_DIR$/src/secondstage/class04/Test.java" />
+        <option value="$PROJECT_DIR$/src/secondstage/class04/Code03_SmailSum.java" />
         <option value="$PROJECT_DIR$/src/secondstage/体系班题目列表" />
+        <option value="$PROJECT_DIR$/src/secondstage/class04/Code04_BiggerThanRightTwice.java" />
       </list>
     </option>
   </component>
@@ -115,8 +120,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="372" />
-    <option name="y" value="11" />
+    <option name="x" value="410" />
+    <option name="y" value="116" />
     <option name="width" value="1390" />
     <option name="height" value="1005" />
   </component>
@@ -127,6 +132,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,7 +162,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,26 +187,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Code01_MergeSort">
     <configuration name="Code01_MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="secondstage.class04.Code01_MergeSort" />
       <module name="StructureAlgorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="secondstage.class04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code01_ReverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secondstage.class03.Code01_ReverseList" />
-      <module name="StructureAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="secondstage.class03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,13 +240,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondstage.class04.Test" />
+      <module name="StructureAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secondstage.class04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Code01_MergeSort" />
         <item itemvalue="Application.Code03_DeleteGivenValue" />
         <item itemvalue="Application.Code02_ReverseDList" />
-        <item itemvalue="Application.Code01_ReverseList" />
       </list>
     </recent_temporary>
   </component>
@@ -296,16 +300,23 @@
       <workItem from="1664621863861" duration="3051000" />
       <workItem from="1665347935636" duration="1198000" />
       <workItem from="1665414324422" duration="3506000" />
+      <workItem from="1665527547751" duration="272000" />
+      <workItem from="1665673501882" duration="1897000" />
+      <workItem from="1665703103449" duration="2045000" />
+      <workItem from="1665819968884" duration="1041000" />
+      <workItem from="1665882661062" duration="594000" />
+      <workItem from="1666026878084" duration="1563000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145330000" />
+    <option name="totallyTimeSpent" value="152742000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="298" y="9" width="1112" height="804" extended-state="0" />
+    <frame x="328" y="93" width="1112" height="804" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19168901" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20967741" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -322,7 +333,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.56994045" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.35267857" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -358,14 +369,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/firststage/class04/Code04_ReverseNodesInKGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/firststage/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/firststage/utils/ListUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -692,13 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/secondstage/class04/Code02_MergeSort2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/secondstage/class04/Code01_MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="980">
@@ -732,17 +728,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/secondstage/class04/Code01_MergeSort2.java">
+    <entry file="file://$PROJECT_DIR$/src/secondstage/class04/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/secondstage/class04/Code02_MergeSort2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
+        <state relative-caret-position="434">
           <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/secondstage/体系班题目列表">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="350">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/secondstage/class04/Code03_SmailSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/secondstage/class04/Code04_BiggerThanRightTwice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
