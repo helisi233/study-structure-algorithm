@@ -2,6 +2,7 @@ package secondstage.class02;
 
 public class Code05_KTimesMTimes {
 
+    // 使用数组和位 存储数字
     public static void findKTimes(int[] arr, int k, int m) {
         if(arr == null || arr.length == 0) {
             return;

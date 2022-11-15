@@ -40,3 +40,6 @@ class04
         6,7,1,3,2
 
 class05
+    1.给定一个数组arr，两个整数lower和upper，返回arr中有多少个子数组的累加和在[lower,upper]上
+    2.荷兰国旗问题
+    3.快速排序
