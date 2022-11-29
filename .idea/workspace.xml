@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62f01468-a650-4592-881b-2ed933b0bc4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/secondstage/class05/Code01_CountOfRangeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondstage/class05/Code02_HollandFlag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondstage/class05/Code03_QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondstage/class05/Code04_QuickSortUnrecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondstage/class06/Code01_Comparato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondstage/class06/Code02_Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondstage/class06/Code03_HeapSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/secondstage/class02/Code05_KTimesMTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondstage/class02/Code05_KTimesMTimes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/secondstage/体系班题目列表" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondstage/体系班题目列表" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,26 +23,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/secondstage/体系班题目列表">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1161">
-              <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+            <state relative-caret-position="1296">
+              <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/secondstage/class05/Code02_HollandFlag.java">
+        <entry file="file://$PROJECT_DIR$/src/secondstage/class06/Code02_Heap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/secondstage/class05/Code03_QuickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="54" column="5" lean-forward="true" selection-start-line="50" selection-start-column="4" selection-end-line="54" selection-end-column="5" />
+            <state relative-caret-position="594">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -53,10 +42,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/secondstage/class05/Code04_QuickSortUnrecursive.java">
+        <entry file="file://$PROJECT_DIR$/src/secondstage/class06/Code03_HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+            <state relative-caret-position="379">
+              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -76,9 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/firststage/class07/Code03_PathSum.java" />
-        <option value="$PROJECT_DIR$/src/firststage/class07/Code04_PathSumII.java" />
-        <option value="$PROJECT_DIR$/src/firststage/class08/Code01_MergeSort.java" />
         <option value="$PROJECT_DIR$/src/firststage/class08/Code02_MergeSortIteration.java" />
         <option value="$PROJECT_DIR$/src/firststage/class08/Code03_QuickSort.java" />
         <option value="$PROJECT_DIR$/src/firststage/utils/ArrayUtils.java" />
@@ -123,10 +109,13 @@
         <option value="$PROJECT_DIR$/src/secondstage/class05/Code01_CountOfRangeSum.java" />
         <option value="$PROJECT_DIR$/src/secondstage/class02/Code05_KTimesMTimes.java" />
         <option value="$PROJECT_DIR$/src/test/Practice.java" />
-        <option value="$PROJECT_DIR$/src/secondstage/体系班题目列表" />
         <option value="$PROJECT_DIR$/src/secondstage/class05/Code02_HollandFlag.java" />
         <option value="$PROJECT_DIR$/src/secondstage/class05/Code03_QuickSort.java" />
         <option value="$PROJECT_DIR$/src/secondstage/class05/Code04_QuickSortUnrecursive.java" />
+        <option value="$PROJECT_DIR$/src/secondstage/class06/Code01_Comparato.java" />
+        <option value="$PROJECT_DIR$/src/secondstage/体系班题目列表" />
+        <option value="$PROJECT_DIR$/src/secondstage/class06/Code02_Heap.java" />
+        <option value="$PROJECT_DIR$/src/secondstage/class06/Code03_HeapSort.java" />
       </list>
     </option>
   </component>
@@ -139,8 +128,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="437" />
-    <option name="y" value="92" />
+    <option name="x" value="276" />
+    <option name="y" value="20" />
     <option name="width" value="1390" />
     <option name="height" value="1005" />
   </component>
@@ -150,6 +139,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,7 +163,7 @@
               <item name="StructureAlgorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="secondstage" type="462c0819:PsiDirectoryNode" />
-              <item name="class05" type="462c0819:PsiDirectoryNode" />
+              <item name="class06" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="StructureAlgorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -186,7 +176,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,6 +187,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../algorithmbasic2020-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -212,13 +202,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code03_QuickSort">
-    <configuration name="Code01_MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secondstage.class04.Code01_MergeSort" />
+  <component name="RunManager" selected="Application.Code03_HeapSort">
+    <configuration name="Code01_Comparato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondstage.class06.Code01_Comparato" />
       <module name="StructureAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secondstage.class04.*" />
+          <option name="PATTERN" value="secondstage.class06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,6 +222,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="secondstage.class05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code03_HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondstage.class06.Code03_HeapSort" />
+      <module name="StructureAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secondstage.class06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,19 +269,6 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practicec.Test" />
-      <module name="StructureAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practicec.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="secondstage.class04.Test" />
       <module name="StructureAlgorithm" />
       <extension name="coverage">
@@ -293,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code03_HeapSort" />
+        <item itemvalue="Application.Code01_Comparato" />
         <item itemvalue="Application.Code03_QuickSort" />
         <item itemvalue="Application.Code02_HollandFlag" />
         <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Code01_MergeSort" />
       </list>
     </recent_temporary>
   </component>
@@ -354,16 +344,21 @@
       <workItem from="1667919162281" duration="4803000" />
       <workItem from="1668103139678" duration="199000" />
       <workItem from="1668351384578" duration="5011000" />
+      <workItem from="1668528350321" duration="1499000" />
+      <workItem from="1668555766854" duration="2877000" />
+      <workItem from="1668701654870" duration="1292000" />
+      <workItem from="1669156302552" duration="6004000" />
+      <workItem from="1669308977343" duration="594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180649000" />
+    <option name="totallyTimeSpent" value="192915000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="350" y="74" width="1112" height="804" extended-state="0" />
+    <frame x="221" y="16" width="1112" height="804" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.21782842" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.21726756" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -372,7 +367,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32886904" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33002833" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4017857" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5084986" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -380,7 +375,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.35215452" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.35066864" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -416,27 +411,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/firststage/class08/Code01_MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="45" column="66" selection-start-line="45" selection-start-column="66" selection-end-line="45" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/firststage/class08/Code02_MergeSortIteration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1284">
-          <caret line="46" column="27" lean-forward="true" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/firststage/class08/Code03_QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/firststage/class08/Code04_QuickSortIteration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
@@ -738,13 +712,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/secondstage/体系班题目列表">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1161">
-          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/secondstage/class03/Code05_RingArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="568">
@@ -756,6 +723,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/secondstage/class05/Code04_QuickSortUnrecursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+          <folding>
+            <element signature="e#1268#1269#0" expanded="true" />
+            <element signature="e#1285#1286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/secondstage/class05/Code03_QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="54" column="5" selection-start-line="50" selection-start-column="4" selection-end-line="54" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/secondstage/class05/Code02_HollandFlag.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
@@ -763,20 +751,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/secondstage/class05/Code03_QuickSort.java">
+    <entry file="file://$PROJECT_DIR$/src/secondstage/class06/Code01_Comparato.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="54" column="5" lean-forward="true" selection-start-line="50" selection-start-column="4" selection-end-line="54" selection-end-column="5" />
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2025#2026#0" expanded="true" />
+            <element signature="e#2110#2111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/secondstage/体系班题目列表">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/secondstage/class06/Code02_Heap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/secondstage/class05/Code04_QuickSortUnrecursive.java">
+    <entry file="file://$PROJECT_DIR$/src/secondstage/class06/Code03_HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        <state relative-caret-position="379">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
         </state>
       </provider>
     </entry>
